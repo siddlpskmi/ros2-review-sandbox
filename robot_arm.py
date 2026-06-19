@@ -1,6 +1,6 @@
 class RobotArm:
     def __init__(self):
-        self.speed = 50
+        self.speed = 199
 
     def move_to(self, target):
         # Move the arm to a target position
